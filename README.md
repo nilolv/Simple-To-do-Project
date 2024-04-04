@@ -3,4 +3,5 @@ Use this link to access the code: https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.ap
 
 
 About me 
-linkledn: https://www.linkedin.com/in/nihal-zeren-kuruo%C4%9Flu-947868249/
+linkledn:
+https://www.linkedin.com/in/nihal-zeren-kuruo%C4%9Flu-947868249/
